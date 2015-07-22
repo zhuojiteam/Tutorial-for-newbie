@@ -130,9 +130,8 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 		- 保存，确定。
 		- 检验JDK是否安装成功：
 			1. 打开cmd，一般是快捷键win+R，然后在出来的小窗口中键入cmd，回车，就会出现命令行界面；
-			2. 依次输入`java`回车，`javac`回车，`java -version`回车，然后会返回类似下图：
+			2. 依次输入`java`回车，`javac`回车，`java -version`回车，然后会返回类似下图。没有报错并且有反应，则安装成功。
 			![Alt text](./0_12778671082NJq.gif)
-			没有报错并且有反应，则安装成功。
 			
 再次强调注意环境变量的配置三点（%JAVA_HOME%指的就是jdk的路径）：
 - CLASSPATH   .;%JAVA_HOME%\lib;                 （注意：前面点号，分号，后面分号）
