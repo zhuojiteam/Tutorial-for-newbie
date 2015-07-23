@@ -118,8 +118,8 @@ Java虚拟机有自己完善的硬件架构，如**处理器、堆栈、寄存�
 Java Development Kit（JDK）是一个免费软件开发工具包（SDK，Software development kit），也包含了JRE。开发原生在JVM上运行的语言程序，需要安装JDK。
 
 下面简单介绍一下JDK的安装和配置。
-- 下载地址
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- [下载地址](
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - 首先点击选择Accept License Agreement，然后在下方的软件列表中选择你的系统对应的JDK版本（是上面那个软件列表的.exe文件哦）的链接，下载
 - for windows：
 	- 下载以后一路下一步安装，记一下安装路径；
