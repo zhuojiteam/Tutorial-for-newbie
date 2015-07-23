@@ -137,7 +137,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 - CLASSPATH   .;%JAVA_HOME%\lib;                 （注意：前面点号，分号，后面分号）
 - JAVA_HOME   C:\Program Files\Java\jdk1.6.0_17   (注意：前后均无符号)
 - Path        %JAVA_HOME%\bin;              (注意：写在原来变量值的最前面  前无符号，后为分号)
+
 ##7 Clojure的简单学习
+
 ###7.1 安装
 去群文件下载clojure然后解压到一个目录（最好是C盘），找到clojure1-7.0.jar的路径并记住这个路径；
 
