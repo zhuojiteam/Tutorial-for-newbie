@@ -62,10 +62,13 @@ HTTP请求的header，由发送者制造，接收者都可以知道。
 浏览器也会通过headers做一些事，比如缓存策略。
 
  除了headers，还有**cookies**：
+
 ![Alt text](./IMG_4440.JPG)
+
 但是cookies的值（value）不可以泄露哦。因为它保存了验证的内容，手动设置别人的cookie，有时可以用别人的身份登录。此外，HTTP的cookie传输是**明文**的，十分不安全。所以一般会采取加密的HTTPS，以及将cookie内容做成与设备、浏览器、IP等信息有关的方法。cookies是什么，哪里看，可以自己查一查。
 
 我们可以继续看这张图：
+
 ![Alt text](./IMG_4438.JPG)
 
 虎虎打开一个网页时，发送请求，请求有host和path，发送请求时，会解析host，解析到一个IP，然后发数据包。
