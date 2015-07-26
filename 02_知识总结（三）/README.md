@@ -78,6 +78,7 @@ Linux和OS X应该也自带，Windows可用包管理器另行安装。
 - `cp`copy 复制
 - `ls`list 查看当前目录内容
 - `pwd`print working directory 查看当前工作目录的绝对路径
+
 ###4.2 跟踪路由
 此外，windows的`tracert`，Linux/OS X的`traceroute`（可能需要包管理器安装）可以**跟踪路由**，命令的形式类似：
 ```
