@@ -1,4 +1,4 @@
-#小课堂番外篇1-工具之Sublime Text 3
+#小课堂番外篇2-工具之Sublime Text 3
 Sublime Text是一个文本编辑器，比较易于使用（相比其他繁复的IDE等等来说，所以我们可以暂时用它来作编辑器，以后大家想换也是可以哒……而且很好看QwQ）
 ##安装
 [Sublime Text 3下载地址](http://www.sublimetext.com/3)
@@ -9,11 +9,11 @@ Sublime Text是一个文本编辑器，比较易于使用（相比其他繁复�
 
 OS X的话装好把它拖到application里；
 
-windows如果木有建快捷方式就建个快捷方式或者固定到任务栏。
+Windows如果木有建快捷方式就建个快捷方式或者固定到任务栏。
 ##优化
 介绍戳[这里](https://packagecontrol.io/installation)，可以尝试自己看看。
 
-Package Control是sublime的插件管理器，可以方便sublime的插件管理，这样我们就可以安装各种插件来辅助编程啦。
+Package Control是Sublime的插件管理器，可以方便Sublime的插件管理，这样我们就可以安装各种插件来辅助编程啦。
 ###安装
 然后simple的安装方法是这样滴：
 
@@ -23,7 +23,7 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 ```
 下载需要花费一些时间，会卡一会儿。可能会跳出提示窗口，确定就好。
 
-然后安装完了，重启sublime。
+然后安装完了，重启Sublime。
 ###使用
 快捷键`crtl+shift+P`或者菜单`Tools-Command Paletter`跳出一个窗口，输入`install`，选中`Install Package`并回车，会开始加载插件列表。
 
@@ -33,4 +33,4 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 
 ##额外提醒
 ###Special for Mac
-anytime，如果弹出提示xcrun要求安装命令行工具，请点击安装。
+Anytime，如果弹出提示xcrun要求安装命令行工具，请点击安装。
