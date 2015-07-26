@@ -24,7 +24,7 @@
 去[官网](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)下载，点击选择  Accept License Agreement  ，选择你的系统对应的版本链接进行下载，然后安装即可。
 ###1.3检验JAVA是否安装成功：
 1. 打开cmd，一般是快捷键win+R，然后在出来的小窗口中键入cmd，回车，就会出现命令行界面；
-2. 依次输入`java`回车，`javac`回车，`java -version`回车，然后会返回类似下图，没有报错并且有反应，则安装成功。
+2. 依次输入`java`回车，`javac`回车，`java -version`回车，然后会返回类似下图，没有报错且有反应，则安装成功。
 ![Alt text](./image.gif)
 			
 ##2 Clojure
@@ -64,7 +64,7 @@ Leiningen是一个用于自动化（构建）clojure项目的工具，安装了�
 
 Linux的命令就是对应的包管理器的命令，不提。
 ###3.2 手动安装方法（没有包管理器或者包管理器安装失败/版本过低）
-首先，请大家来到leiningen的Github项目地址：https://github.com/technomancy/leiningen
+首先，请大家来到[leiningen的Github项目地址](https://github.com/technomancy/leiningen)
 ####3.2.1 for LINUX/OS X
 下拉，然后我们在`Installation`模块阅读到这样的说明：
 
