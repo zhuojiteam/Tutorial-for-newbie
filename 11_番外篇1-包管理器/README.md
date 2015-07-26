@@ -18,9 +18,9 @@
 brew install packageName
 ```
 此外，可以使用命令`brew -h`查看命令的基本使用说明。
-##for windows
+##for Windows
 建议把cmd/powershell固定到任务栏，这样用起来比较方便。
-###如果你是windows7及以上版本
+###如果你是Windows7及以上版本
 试着阅读这个页面： https://chocolatey.org/
 
 简单的解释：
@@ -50,7 +50,7 @@ choco install scala.install
 装完重启cmd，输入命令scala，若有相应且无报错，则成功。
 
 此外还可以下载一下**vim**……日后也会非常管用。使用方法请自查。
-###如果你是windows XP
+###如果你是Windows XP
 ……我建议你换电脑。
 
 此外可以自己安装powershell，但需要首先安装.net，具体的教程请自查0.0
