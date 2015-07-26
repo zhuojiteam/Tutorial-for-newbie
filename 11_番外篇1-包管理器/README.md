@@ -21,7 +21,7 @@ brew install packageName
 ##for Windows
 建议把cmd/powershell固定到任务栏，这样用起来比较方便。
 ###如果你是Windows7及以上版本
-试着阅读这个页面： https://chocolatey.org/
+试着阅读这个[页面](https://chocolatey.org/)。
 
 简单的解释：
 
