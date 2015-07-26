@@ -29,7 +29,7 @@
 			
 ##2 Clojure
 去群文件下载clojure然后解压到一个目录（windows最好是C盘），找到clojure1-7.0.jar的路径并记住这个路径； 
-###2.1 for windows
+###2.1 for Windows
 打开cmd，输入java -cp "clojure-1.7.0.jar的路径" clojure.main回车，就可以运行Clojure。
 ###2.2 for Linux/OS X
 打开你的终端/terminal，输入java -cp "clojure-1.7.0.jar的路径" clojure.main回车，就可以运行Clojure。
