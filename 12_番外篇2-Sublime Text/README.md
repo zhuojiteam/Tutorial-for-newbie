@@ -1,7 +1,7 @@
 #小课堂番外篇1-工具之Sublime Text 3
 Sublime Text是一个文本编辑器，比较易于使用（相比其他繁复的IDE等等来说，所以我们可以暂时用它来作编辑器，以后大家想换也是可以哒……而且很好看QwQ）
 ##安装
-[Sublime Text3下载地址](http://www.sublimetext.com/3)
+[Sublime Text 3下载地址](http://www.sublimetext.com/3)
 
 选择你的系统对应的版本，下载安装。
 
