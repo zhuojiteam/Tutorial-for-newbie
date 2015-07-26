@@ -15,7 +15,7 @@
 关于翻墙和接下来会频繁提到的**包管理器**，我们下期再见^ ^
 
 ##1 JDK
-###1.1 for windows ：
+###1.1 for Windows ：
 请参见总结（二）的JDK的安装与配置部分
 ###1.2 for Linux/OS X：
 ####1.2.1途径一：
@@ -65,7 +65,7 @@ Leiningen是一个用于自动化（构建）clojure项目的工具，安装了�
 Linux的命令就是对应的包管理器的命令，不提。
 ###3.2 手动安装方法（没有包管理器或者包管理器安装失败/版本过低）
 首先，请大家来到[leiningen的Github项目地址](https://github.com/technomancy/leiningen)
-####3.2.1 for LINUX/OS X
+####3.2.1 for Linux/OS X
 下拉，然后我们在`Installation`模块阅读到这样的说明：
 
 前面那一堆话就是我在本文档3.1里让大家干的……可以不管。
