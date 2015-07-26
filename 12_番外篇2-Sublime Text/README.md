@@ -31,6 +31,6 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 
 如果加载出了插件列表，在里面查找自己需要的插件，就可以下载安装。
 
-##额外提醒：
+##额外提醒
 ###Special for Mac
 anytime，如果弹出提示xcrun要求安装命令行工具，请点击安装。
