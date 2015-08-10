@@ -69,12 +69,14 @@ VPS是虚拟服务器，注意VPN是搭设在其上的一种服务。
 
 参考书：
 - Thinkin in Java
+
 ###3.4 Python
 一种相对简单和易于理解的编程语言，被认为对新手十分友好。
 
 参考书：
 - Learning Python
 - Programming Python
+
 ###3.5 Rust
 一个今年五月发布的新语言，是系统级编程语言，被认为有相当良好的前景。
 
